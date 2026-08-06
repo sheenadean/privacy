@@ -18,8 +18,6 @@ Device-identifier-linked usage counts are kept indefinitely to enforce plan limi
 Children's privacy
 This app is not directed at children under 13 and we do not knowingly collect data from them.
 
-Your choices
-Contact us to request deletion of any data tied to your device identifier (include the Device ID shown in the app's Settings screen so we can find your record).
 
 Contact
 deanteam.ai@gmail.com
@@ -43,9 +41,6 @@ Anthropic（Claude 模型的开发方）会按照 Anthropic 自己的隐私政�
 
 儿童隐私
 本 App 不面向 13 岁以下儿童，我们不会主动收集他们的数据。
-
-你的选择
-可以联系我们要求删除跟你设备标识符关联的数据（请附上 App「设置」页显示的 Device ID，方便我们找到你的记录）。
 
 联系我们
 deanteam.ai@gmail.com
