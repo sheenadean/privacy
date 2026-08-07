@@ -1,5 +1,5 @@
 Stock123Ai — Privacy Policy
-Last updated: 2026-08-05
+Last updated: 2026-08-06
 
 What we collect
 Device identifier — a per-app, per-device ID (iOS's identifierForVendor, not your Apple ID or phone number) used to enforce free-trial and daily usage limits. Reset if you uninstall and reinstall the app.
@@ -15,15 +15,22 @@ Anthropic (creator of the Claude models) processes the chart images and text you
 Data retention
 Device-identifier-linked usage counts are kept indefinitely to enforce plan limits, unless you request deletion (see Contact below).
 
+If we discontinue the service
+We may suspend, discontinue, or modify Stock123Ai (in whole or in part) at any time, with or without advance notice. If the backend service is shut down, in-app chart analysis will stop working — including for active subscribers — since it depends on that service being available.
+
+Any subscription you've purchased is billed and managed entirely through Apple's App Store / StoreKit — we never process your payment ourselves. If the service is discontinued, cancel your subscription in your Apple ID account settings to stop future charges; refunds for App Store purchases are handled by Apple under its own policies, not by us. We're not obligated to provide continued support, a data export, or advance warning if we stop operating.
+
 Children's privacy
 This app is not directed at children under 13 and we do not knowingly collect data from them.
 
+Your choices
+Contact us to request deletion of any data tied to your device identifier (include the Device ID shown in the app's Settings screen so we can find your record).
 
 Contact
 deanteam.ai@gmail.com
 
 Stock123Ai — 隐私政策
-最后更新：2026-08-05
+最后更新：2026-08-06
 
 我们收集什么
 设备标识符 —— App 专用的每设备 ID（iOS 的 identifierForVendor，不是你的 Apple ID 或手机号），用来控制免费试用和每日用量上限。卸载重装会重置。
@@ -39,8 +46,16 @@ Anthropic（Claude 模型的开发方）会按照 Anthropic 自己的隐私政�
 数据保留
 跟设备标识符关联的用量计数会一直保留，用来执行套餐限额，除非你主动要求删除（见下方"联系我们"）。
 
+如果我们停止运营
+我们可能随时暂停、修改或彻底停止运营 Stock123Ai（部分或全部功能），不保证提前通知。如果后端服务停止，App 内的图表分析功能会随之无法使用——即使是已订阅用户也一样，因为这个功能依赖后端服务正常运行。
+
+你购买的任何订阅都完全由苹果 App Store / StoreKit 计费和管理，我们自己不处理你的付款。如果服务终止，请自行在你的 Apple ID 账户设置里取消订阅以停止后续扣费；App Store 购买的退款由苹果按其自己的政策处理，不是我们负责。我们没有义务在停止运营时提供持续支持、数据导出，或提前预警。
+
 儿童隐私
 本 App 不面向 13 岁以下儿童，我们不会主动收集他们的数据。
+
+你的选择
+可以联系我们要求删除跟你设备标识符关联的数据（请附上 App「设置」页显示的 Device ID，方便我们找到你的记录）。
 
 联系我们
 deanteam.ai@gmail.com
