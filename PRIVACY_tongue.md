@@ -26,14 +26,17 @@ Cached UI translations and language preference are stored locally on your device
 5. Your Choices
 You can reset your local App data at any time from Settings → Reset app state.
 Because there is no account system, deleting the App removes your local data; a new install generates a new device identifier (though an active subscription will be recognized again automatically via StoreKit, as described above).
-6. Children's Privacy
+6. If We Discontinue the Service
+We do not guarantee the App or its backend will be available indefinitely. If we discontinue the App or its supporting servers: we stop processing photos entirely (we never retained them anyway); any device-linked usage data held on our servers is deleted or rendered inaccessible; you should cancel any active auto-renewing subscription yourself via your Apple ID account settings, since we cannot cancel it on your behalf — refunds for any period after discontinuation, if applicable, are handled by Apple per its own policies; previously-downloaded copies of the App may still open and show past results, but new analyses will no longer be possible once the backend is offline.
+
+7. Children's Privacy
 The App is not directed at children under 13, and we do not knowingly collect data from children under 13.
 
-7. Security
+8. Security
 Data in transit to our backend and to Anthropic is encrypted (HTTPS). We do not sell, rent, or share your data with third parties for advertising purposes.
 
-8. Changes to This Policy
+9. Changes to This Policy
 We may update this policy from time to time. Continued use of the App after changes means you accept the updated policy. Material changes will be reflected by an updated effective date above.
 
-9. Contact Us
+10. Contact Us
 Questions about this policy: support@tonguenotes.app
